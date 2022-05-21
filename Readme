@@ -1,3 +1,5 @@
+Chat-Bot qui donne le programme Tv d'une chaîne Tv à une heure précise sélectionnée dans la conversation.
+
 Commande d'exécution : Python3 main.py 
 
 Vérifier que le fichier Html et le dossier répertoire est correctement créer avec un total de 26 chaînes
