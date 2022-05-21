@@ -1,0 +1,14 @@
+Commande d'exécution : Python3 main.py 
+
+Vérifier que le fichier Html et le dossier répertoire est correctement créer avec un total de 26 chaînes
+(donc sous dossiers = TF1 , FRANCE 2 , FRANCE 3 ect..) sinon si il est incomplet supprimez le et recommencer.
+
+En cas de dysfonctionnement quelconque : N'hésitez pas à actualiser la page plusieurs fois et recommencer
+la conversation. Si le problèmme persiste supprimer le répertoire avec le fichier Html et recommencer l'exécution :)
+
+N'oubliez pas d'actualiser les données en supprimant le dossier répertoire et en recommançant l'exécution 
+lorsque vous utiliser le programme un jour différent du jour actuel pour éviter d'avoir les résultats du 
+jour passé.
+
+
+La vidéo de démonstration est la pour vous guidez :)
